@@ -1,1 +1,0 @@
-# python_veterans_and_military
